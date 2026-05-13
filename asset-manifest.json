@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Visual-Pipeline-Designer/static/css/main.3a51ca8c.css",
+    "main.js": "/Visual-Pipeline-Designer/static/js/main.f86b8ce6.js",
+    "index.html": "/Visual-Pipeline-Designer/index.html",
+    "main.3a51ca8c.css.map": "/Visual-Pipeline-Designer/static/css/main.3a51ca8c.css.map",
+    "main.f86b8ce6.js.map": "/Visual-Pipeline-Designer/static/js/main.f86b8ce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a51ca8c.css",
+    "static/js/main.f86b8ce6.js"
+  ]
+}
